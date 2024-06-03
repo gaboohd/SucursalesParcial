@@ -1,0 +1,32 @@
+﻿h1 {
+    color: #4CAF50; /* Cambia el color del encabezado */
+}
+
+.table {
+    margin-top: 10px;
+}
+
+.btn-primary {
+    background-color: #007BFF;
+    border-color: #007BFF;
+}
+
+/*TABLA*/
+table {
+    table-layout: fixed;
+    width: 60%;
+}
+
+th, td {
+    font-size: 12px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+th {
+    width: 20%; /* ajusta la anchura de las columnas */
+}
+
+td {
+    width: 30%; /* ajusta la anchura de las columnas */
+}
